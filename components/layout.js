@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
                 <link rel="icon" href="/favicon.icon" />
                 <meta
                     name="description"
-                    content="Learn how to build a personal website using Next.js"
+                    content="Joel Espinoza Rojas Blog"
                 />
                 <meta
                     property="og:image"
